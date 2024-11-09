@@ -1,0 +1,18 @@
+name: bala
+age: 25
+education: |
+  BCA
+  HSC
+  SSLC
+Siblings: null
+married: false
+friends:
+  - friend1:
+      name: saravanan
+      age: 26
+      education: 
+        - BE
+        - HSC
+        - SSLC
+      Siblings: yes
+      married: false
