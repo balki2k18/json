@@ -1,0 +1,30 @@
+{
+    "name": "bala",
+    "age": 25,
+    "major": true,
+    "siblings": null,
+    "mobileno": [12345,67890],
+    "address":
+    [
+        {
+            "doorno": "4/21",
+            "street": "3rd cross street",
+            "Area": "Kandasamy nagar",
+            "City": "Porur Chennai",
+            "State": "Tamilnadu",
+            "Pincode": 600116
+        },
+        {
+            "doorno": "5/7",
+            "street": "Main street",
+            "Area": "Vinay nagar",
+            "City": "Kundrathur Chennai",
+            "State": "Tamilnadu",
+            "Pincode": 600089
+        }
+    ],
+    "working": "private"
+}
+
+
+ 
